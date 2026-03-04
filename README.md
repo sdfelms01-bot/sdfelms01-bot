@@ -1,32 +1,53 @@
-<div align="center">
+# Merhaba, ben, I'm Sedef Elmas
+### Front-End Developer
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Merhaba!+Ben+Sedef+Elmas;Anadolu+Üniversitesi+Front-End+Öğrencisi;UI%2FUX+Tasarımcısı+ve+Geliştirici;Teknofest+2026+Adayı+🚀" alt="Typing Effect" />
+Anadolu Üniversitesi / Ön-Yüz Yazılım Geliştirme öğrencisi.
 
-  <br>
+## Contact Me
+<p><a href="https://www.linkedin.com/in/sedef-elmas-aa058038a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://sdfelms01-bot.github.io/portfolyo/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.instagram.com/sdfelmas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
-  <h1>Merhaba, ben Sedef Elmas 💻</h1>
-  <p>Anadolu Üniversitesi Ön-Yüz Yazılım Geliştirme öğrencisiyim</p>
+## Skills
 
-  <br>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
+</p>
 
-  <h3>🛠 Teknolojiler & Araçlar</h3>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </p>
+## Projects
 
-  <br>
+### Modern Hava Durumu Kontrol Paneli
 
-  <h3>📈 GitHub İstatistikleri</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=sdfelms01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Sedef'in Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdfelms01&layout=compact&theme=radical&hide_border=true" alt="Sedef'in Dilleri" width="48%"/>
-  
-  <br><br>
+Bu proje, OpenWeather API kullanarak anlık hava durumları seçeneklerine sahip, modern ve şık bir tasarıma sahip bir web sitesidir.
 
-  <img src="https://komarev.com/ghpvc/?username=sdfelms01&label=Profil%20Ziyareti&color=238636&style=flat-square" alt="sdfelms01" />
+[View Project](https://sdfelms01-bot.github.io/hava-durumu-dashboard/)
 
-</div>
+---
+
+### Coin Dashboard
+
+Coin Dashboard Bu proje, kripto paralar, döviz kurları ve altın fiyatlarını anlık olarak takip etmek amacıyla geliştirilmiş finans panelidir.
+Anlık Veri Takibi: CoinGecko ve ExchangeRate API'leri kullanılarak Bitcoin, Dolar, Euro ve Altın verileri 60 saniyelik bir güncellenir.
+
+[View Project](https://sdfelms01-bot.github.io/coin-dashboard/)
+
+---
+
+### Kişisel Web Sitesi
+
+[View Project](https://sdfelms01-bot.github.io/portfolyo/)
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=sdfelms01-bot&show_icons=true&count_private=true&theme=radical" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdfelms01-bot&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sdfelms01-bot&theme=radical" alt="GitHub Streak" />
+
+
