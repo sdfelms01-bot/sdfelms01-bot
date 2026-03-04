@@ -1,4 +1,4 @@
-# Merhaba, ben, I'm Sedef Elmas
+# Merhaba, ben Sedef Elmas
 ### Front-End Developer
 
 Anadolu Üniversitesi / Ön-Yüz Yazılım Geliştirme öğrencisi.
